@@ -1,0 +1,219 @@
+{
+  "as_of": "2026-10-23T20:00:00+09:00",
+  "members": [
+    {
+      "id": "link-sharer",
+      "gear": 2
+    },
+    {
+      "id": "analyst",
+      "gear": 3
+    },
+    {
+      "id": "diarist",
+      "gear": 2
+    },
+    {
+      "id": "returning",
+      "gear": 1,
+      "demoted_at": "2026-10-18T00:00:00+09:00"
+    },
+    {
+      "id": "social",
+      "gear": 2
+    }
+  ],
+  "events": [
+    {
+      "id": "lottery-01",
+      "member_id": "link-sharer",
+      "at": "2026-10-10T12:00:00+09:00",
+      "kind": "lottery",
+      "source": "livepocket",
+      "content_id": "lottery-01",
+      "category": "cards"
+    },
+    {
+      "id": "lottery-02",
+      "member_id": "link-sharer",
+      "at": "2026-10-11T12:00:00+09:00",
+      "kind": "lottery",
+      "source": "livepocket",
+      "content_id": "lottery-02",
+      "category": "cards"
+    },
+    {
+      "id": "lottery-03",
+      "member_id": "link-sharer",
+      "at": "2026-10-12T12:00:00+09:00",
+      "kind": "lottery",
+      "source": "livepocket",
+      "content_id": "lottery-03",
+      "category": "cards"
+    },
+    {
+      "id": "lottery-04",
+      "member_id": "link-sharer",
+      "at": "2026-10-13T12:00:00+09:00",
+      "kind": "lottery",
+      "source": "livepocket",
+      "content_id": "lottery-04",
+      "category": "cards"
+    },
+    {
+      "id": "lottery-05",
+      "member_id": "link-sharer",
+      "at": "2026-10-14T12:00:00+09:00",
+      "kind": "lottery",
+      "source": "livepocket",
+      "content_id": "lottery-05",
+      "category": "cards"
+    },
+    {
+      "id": "lottery-06",
+      "member_id": "link-sharer",
+      "at": "2026-10-15T12:00:00+09:00",
+      "kind": "lottery",
+      "source": "livepocket",
+      "content_id": "lottery-06",
+      "category": "cards"
+    },
+    {
+      "id": "lottery-07",
+      "member_id": "link-sharer",
+      "at": "2026-10-16T12:00:00+09:00",
+      "kind": "lottery",
+      "source": "livepocket",
+      "content_id": "lottery-07",
+      "category": "cards"
+    },
+    {
+      "id": "lottery-08",
+      "member_id": "link-sharer",
+      "at": "2026-10-17T12:00:00+09:00",
+      "kind": "lottery",
+      "source": "livepocket",
+      "content_id": "lottery-08",
+      "category": "cards"
+    },
+    {
+      "id": "lottery-09",
+      "member_id": "link-sharer",
+      "at": "2026-10-18T12:00:00+09:00",
+      "kind": "lottery",
+      "source": "livepocket",
+      "content_id": "lottery-09",
+      "category": "cards"
+    },
+    {
+      "id": "lottery-10",
+      "member_id": "link-sharer",
+      "at": "2026-10-19T12:00:00+09:00",
+      "kind": "lottery",
+      "source": "livepocket",
+      "content_id": "lottery-10",
+      "category": "cards"
+    },
+    {
+      "id": "lottery-repost",
+      "member_id": "link-sharer",
+      "at": "2026-10-23T12:00:00+09:00",
+      "kind": "lottery",
+      "source": "livepocket",
+      "content_id": "lottery-01",
+      "category": "cards"
+    },
+    {
+      "id": "analysis-01",
+      "member_id": "analyst",
+      "at": "2026-10-22T12:00:00+09:00",
+      "kind": "analysis",
+      "source": "community",
+      "content_id": "analysis-01",
+      "category": "other"
+    },
+    {
+      "id": "diary-01",
+      "member_id": "diarist",
+      "at": "2026-10-23T12:00:00+09:00",
+      "kind": "diary",
+      "source": "community",
+      "content_id": "diary-01",
+      "category": "none"
+    },
+    {
+      "id": "share-19",
+      "member_id": "returning",
+      "at": "2026-10-19T12:00:00+09:00",
+      "kind": "information",
+      "source": "community",
+      "content_id": "share-19",
+      "category": "cards"
+    },
+    {
+      "id": "share-20",
+      "member_id": "returning",
+      "at": "2026-10-20T12:00:00+09:00",
+      "kind": "information",
+      "source": "community",
+      "content_id": "share-20",
+      "category": "cards"
+    },
+    {
+      "id": "share-21",
+      "member_id": "returning",
+      "at": "2026-10-21T12:00:00+09:00",
+      "kind": "information",
+      "source": "community",
+      "content_id": "share-21",
+      "category": "cards"
+    },
+    {
+      "id": "share-22",
+      "member_id": "returning",
+      "at": "2026-10-22T12:00:00+09:00",
+      "kind": "information",
+      "source": "community",
+      "content_id": "share-22",
+      "category": "cards"
+    },
+    {
+      "id": "share-23",
+      "member_id": "returning",
+      "at": "2026-10-23T12:00:00+09:00",
+      "kind": "information",
+      "source": "community",
+      "content_id": "share-23",
+      "category": "cards"
+    },
+    {
+      "id": "x-action-01",
+      "member_id": "social",
+      "at": "2026-10-22T12:00:00+09:00",
+      "kind": "honoa_action",
+      "source": "x",
+      "content_id": "honoa-post-01",
+      "category": "none",
+      "target": "honoa"
+    },
+    {
+      "id": "x-quote-01",
+      "member_id": "social",
+      "at": "2026-10-23T12:00:00+09:00",
+      "kind": "honoa_quote",
+      "source": "x",
+      "content_id": "honoa-post-01",
+      "category": "none",
+      "target": "honoa"
+    },
+    {
+      "id": "joshin-01",
+      "member_id": "social",
+      "at": "2026-10-23T12:00:00+09:00",
+      "kind": "information",
+      "source": "joshin",
+      "content_id": "joshin-01",
+      "category": "cards"
+    }
+  ]
+}

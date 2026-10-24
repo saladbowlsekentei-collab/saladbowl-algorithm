@@ -1,0 +1,147 @@
+{
+  "policy_version": "0.1.0",
+  "as_of": "2026-10-23T20:00:00+09:00",
+  "window_start": "2026-10-10T00:00:00+09:00",
+  "timezone": "Asia/Tokyo",
+  "features": {
+    "guest_access": "planned"
+  },
+  "filter_counts": {
+    "outside_window": 0,
+    "excluded_source": 1,
+    "other_target": 0,
+    "duplicate_content": 2
+  },
+  "ranking": [
+    {
+      "member_id": "link-sharer",
+      "score": 210.0,
+      "breakdown": {
+        "information": 0.0,
+        "lottery": 135.0,
+        "analysis": 0.0,
+        "diary": 0.0,
+        "non_card_bonus": 0.0,
+        "livepocket_bonus": 75.0,
+        "honoa_action": 0.0,
+        "honoa_quote": 0.0
+      },
+      "signals": {
+        "valid_shares": 10,
+        "livepocket_posts": 10,
+        "livepocket_milestone": true,
+        "recovery_streak_days": 0
+      },
+      "gear": {
+        "current": 2,
+        "gear2_recovery_candidate": false,
+        "gear2_retention_satisfied": true,
+        "review_required": true
+      }
+    },
+    {
+      "member_id": "analyst",
+      "score": 102.0,
+      "breakdown": {
+        "information": 0.0,
+        "lottery": 0.0,
+        "analysis": 75.0,
+        "diary": 0.0,
+        "non_card_bonus": 27.0,
+        "livepocket_bonus": 0.0,
+        "honoa_action": 0.0,
+        "honoa_quote": 0.0
+      },
+      "signals": {
+        "valid_shares": 1,
+        "livepocket_posts": 0,
+        "livepocket_milestone": false,
+        "recovery_streak_days": 0
+      },
+      "gear": {
+        "current": 3,
+        "gear2_recovery_candidate": false,
+        "gear2_retention_satisfied": null,
+        "review_required": true
+      }
+    },
+    {
+      "member_id": "returning",
+      "score": 67.5,
+      "breakdown": {
+        "information": 67.5,
+        "lottery": 0.0,
+        "analysis": 0.0,
+        "diary": 0.0,
+        "non_card_bonus": 0.0,
+        "livepocket_bonus": 0.0,
+        "honoa_action": 0.0,
+        "honoa_quote": 0.0
+      },
+      "signals": {
+        "valid_shares": 5,
+        "livepocket_posts": 0,
+        "livepocket_milestone": false,
+        "recovery_streak_days": 5
+      },
+      "gear": {
+        "current": 1,
+        "gear2_recovery_candidate": true,
+        "gear2_retention_satisfied": null,
+        "review_required": true
+      }
+    },
+    {
+      "member_id": "diarist",
+      "score": 39.0,
+      "breakdown": {
+        "information": 0.0,
+        "lottery": 0.0,
+        "analysis": 0.0,
+        "diary": 39.0,
+        "non_card_bonus": 0.0,
+        "livepocket_bonus": 0.0,
+        "honoa_action": 0.0,
+        "honoa_quote": 0.0
+      },
+      "signals": {
+        "valid_shares": 1,
+        "livepocket_posts": 0,
+        "livepocket_milestone": false,
+        "recovery_streak_days": 0
+      },
+      "gear": {
+        "current": 2,
+        "gear2_recovery_candidate": false,
+        "gear2_retention_satisfied": true,
+        "review_required": true
+      }
+    },
+    {
+      "member_id": "social",
+      "score": 2.0,
+      "breakdown": {
+        "information": 0.0,
+        "lottery": 0.0,
+        "analysis": 0.0,
+        "diary": 0.0,
+        "non_card_bonus": 0.0,
+        "livepocket_bonus": 0.0,
+        "honoa_action": 0.0,
+        "honoa_quote": 2.0
+      },
+      "signals": {
+        "valid_shares": 0,
+        "livepocket_posts": 0,
+        "livepocket_milestone": false,
+        "recovery_streak_days": 0
+      },
+      "gear": {
+        "current": 2,
+        "gear2_recovery_candidate": false,
+        "gear2_retention_satisfied": false,
+        "review_required": true
+      }
+    }
+  ]
+}

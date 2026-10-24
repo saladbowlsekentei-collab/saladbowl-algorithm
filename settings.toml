@@ -1,0 +1,27 @@
+version = "0.1.0"
+
+[windows]
+contribution_days = 14
+livepocket_days = 14
+recovery_days = 5
+
+[thresholds]
+livepocket_posts = 10
+retention_shares = 1
+
+[weights]
+information = "13.5"
+lottery = "13.5"
+analysis = "75"
+diary = "39"
+non_card_bonus = "27"
+livepocket_bonus = "75"
+honoa_action = "1"
+honoa_quote_multiplier = "2"
+
+[filters]
+excluded_sources = ["joshin"]
+
+[features]
+guest_access = "planned"
+
